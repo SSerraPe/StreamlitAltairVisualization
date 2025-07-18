@@ -65,7 +65,7 @@ El proyecto entrega todo lo solicitado en la propuesta:
 
 ## 🌐 Dashboard en línea
 
-En caso de dificultades para ejecutar localmente el Streamlit, el dashboard está disponible públicamente en la plataforma [Streamlit Community Cloud]([https://streamlit.io/](https://project-measles-rubeola-dataviz-ssp.streamlit.app/)). El enlace se encuentra adjunto en la plataforma de entrega.
+En caso de dificultades para ejecutar localmente el Streamlit, el dashboard está disponible públicamente en la plataforma [Streamlit Community Cloud](https://project-measles-rubeola-dataviz-ssp.streamlit.app/). El enlace se encuentra adjunto en la plataforma de entrega.
 
 ---
 
